@@ -630,7 +630,7 @@ MonoBehaviour:
   DistanceTextPrefab: {fileID: 4713543918823111879, guid: 7569dca35c19e4ed1b8f7ef79adffae6,
     type: 3}
   ARCamera: {fileID: 625166555}
-  raycastManager: {fileID: 0}
+  raycastManager: {fileID: 1663284708}
 --- !u!4 &1480039052
 Transform:
   m_ObjectHideFlags: 0
